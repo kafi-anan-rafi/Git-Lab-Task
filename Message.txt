@@ -1,1 +1,3 @@
 Message has been changed!
+
+New message is added!
